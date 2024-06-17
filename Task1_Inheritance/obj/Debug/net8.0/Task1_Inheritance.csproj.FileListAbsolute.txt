@@ -1,0 +1,14 @@
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\bin\Debug\net8.0\Task1_Inheritance.exe
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\bin\Debug\net8.0\Task1_Inheritance.deps.json
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\bin\Debug\net8.0\Task1_Inheritance.runtimeconfig.json
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\bin\Debug\net8.0\Task1_Inheritance.dll
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\bin\Debug\net8.0\Task1_Inheritance.pdb
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\obj\Debug\net8.0\Task1_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\obj\Debug\net8.0\Task1_Inheritance.AssemblyInfoInputs.cache
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\obj\Debug\net8.0\Task1_Inheritance.AssemblyInfo.cs
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\obj\Debug\net8.0\Task1_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\obj\Debug\net8.0\Task1_Inheritance.dll
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\obj\Debug\net8.0\refint\Task1_Inheritance.dll
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\obj\Debug\net8.0\Task1_Inheritance.pdb
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\obj\Debug\net8.0\Task1_Inheritance.genruntimeconfig.cache
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task1_Inheritance\obj\Debug\net8.0\ref\Task1_Inheritance.dll
