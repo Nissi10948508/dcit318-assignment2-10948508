@@ -1,0 +1,15 @@
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\bin\Debug\net8.0\Task2_AbstractClasses.exe
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\bin\Debug\net8.0\Task2_AbstractClasses.deps.json
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\bin\Debug\net8.0\Task2_AbstractClasses.runtimeconfig.json
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\bin\Debug\net8.0\Task2_AbstractClasses.dll
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\bin\Debug\net8.0\Task2_AbstractClasses.pdb
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.AssemblyInfo.cs
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.sourcelink.json
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.dll
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\obj\Debug\net8.0\refint\Task2_AbstractClasses.dll
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.pdb
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.genruntimeconfig.cache
+C:\Users\seman\Source\Repos\dcit318-assignment2-10948508\Task2_AbstractClasses\obj\Debug\net8.0\ref\Task2_AbstractClasses.dll
